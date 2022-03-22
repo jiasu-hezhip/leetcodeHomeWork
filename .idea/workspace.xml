@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6e6d71-61bd-4e88-8ee4-bc9a9687f1bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day16两个数组合并找中位数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day17寻找一个字符串中的最长字符串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day18自定义正则表达式Hard/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,15 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,7 +111,11 @@
       <updated>1609719503561</updated>
       <workItem from="1609719506928" duration="901000" />
       <workItem from="1647698517555" duration="4649000" />
-      <workItem from="1647780300981" duration="6261000" />
+      <workItem from="1647780300981" duration="7290000" />
+      <workItem from="1647828478545" duration="45000" />
+      <workItem from="1647831546725" duration="28000" />
+      <workItem from="1647834846944" duration="48000" />
+      <workItem from="1647912105303" duration="4167000" />
     </task>
     <servers />
   </component>
