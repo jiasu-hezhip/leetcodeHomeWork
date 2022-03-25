@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6e6d71-61bd-4e88-8ee4-bc9a9687f1bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day20电话号码的字母组合/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day21单向链表删除倒数第n个节点/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,13 +86,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,7 +146,8 @@
       <workItem from="1647834846944" duration="48000" />
       <workItem from="1647912105303" duration="6930000" />
       <workItem from="1648000114374" duration="2362000" />
-      <workItem from="1648089311398" duration="2813000" />
+      <workItem from="1648089311398" duration="3579000" />
+      <workItem from="1648167714578" duration="996000" />
     </task>
     <servers />
   </component>
@@ -185,6 +188,14 @@
           <url>file://$PROJECT_DIR$/src/main/java/Day16无重复字符的最长字串/Solution.java</url>
           <line>58</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Day20电话号码的字母组合/Solution.java</url>
+          <line>68</line>
+          <properties class="Day20电话号码的字母组合.Solution" method="backtrack">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
