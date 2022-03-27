@@ -1,6 +1,8 @@
 package Day22括号匹配;
 
+import java.util.ArrayDeque;
 import java.util.ArrayList;
+import java.util.Deque;
 
 public class Solution {
 
@@ -18,7 +20,6 @@ public class Solution {
     public static void main(String[] args) {
         String s = "({})[]{}";
 //        String s = "(]{}";
-
         System.out.println(isValid(s));
     }
 
