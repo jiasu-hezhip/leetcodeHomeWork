@@ -38,7 +38,6 @@ public class Solution {
                 temp.val = Integer.parseInt(s[i]);
                 temp.next = new ListNode();
             }
-
         }
 
         ListNode node2 = new ListNode();
