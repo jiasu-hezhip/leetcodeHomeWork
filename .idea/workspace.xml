@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6e6d71-61bd-4e88-8ee4-bc9a9687f1bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day25合并k个升序链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day25合并k个升序链表/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day26下一个排列_Hard/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day26下一个排列_Hard/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day23合并有序链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day23合并有序链表/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day23合并有序链表/Solution$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day23合并有序链表/Solution$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day23合并有序链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day23合并有序链表/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day25合并k个升序链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day25合并k个升序链表_Hard_PriorityQueue/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day25合并k个升序链表/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day25合并k个升序链表_Hard_PriorityQueue/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +49,13 @@
       <recent name="Day15两数相加" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20电话号码的字母组合.Solution" />
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day26下一个排列_Hard.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day20电话号码的字母组合.*" />
+          <option name="PATTERN" value="Day26下一个排列_Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day25合并k个升序链表.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Day25合并k个升序链表_Hard_PriorityQueue.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day25合并k个升序链表.*" />
+          <option name="PATTERN" value="Day25合并k个升序链表_Hard_PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,24 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,8 @@
       <workItem from="1648280757723" duration="27000" />
       <workItem from="1648374411694" duration="5421000" />
       <workItem from="1648446097342" duration="3211000" />
-      <workItem from="1648512319452" duration="5535000" />
+      <workItem from="1648512319452" duration="5985000" />
+      <workItem from="1648599062596" duration="4069000" />
     </task>
     <servers />
   </component>
