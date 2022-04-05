@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6e6d71-61bd-4e88-8ee4-bc9a9687f1bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day31全排列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day31全排列/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day32旋转图像/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day32旋转图像/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day32旋转图像/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day30组合总和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day30组合总和/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +39,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Day32旋转图像" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Day32旋转图像" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Day15两数相加" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day27最长有效括号_Hard.Solution" />
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day32旋转图像.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day27最长有效括号_Hard.*" />
+          <option name="PATTERN" value="Day32旋转图像.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,24 +118,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +170,8 @@
       <workItem from="1648599062596" duration="18151000" />
       <workItem from="1648861085353" duration="4930000" />
       <workItem from="1648996309465" duration="3449000" />
-      <workItem from="1649081936740" duration="3782000" />
+      <workItem from="1649081936740" duration="4219000" />
+      <workItem from="1649164577622" duration="5002000" />
     </task>
     <servers />
   </component>
@@ -243,7 +250,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Day31全排列/Solution.java</url>
-          <line>71</line>
+          <line>69</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
@@ -264,7 +271,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Day31全排列/Solution.java</url>
-          <line>57</line>
+          <line>58</line>
           <properties class="Day31全排列.Solution" method="backtrack">
             <option name="EMULATED" value="true" />
           </properties>
