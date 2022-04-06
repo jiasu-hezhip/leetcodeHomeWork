@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6e6d71-61bd-4e88-8ee4-bc9a9687f1bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day32旋转图像/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day32旋转图像/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day32旋转图像/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day33字母异味词排列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day33字母异味词排列/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <recent name="Day15两数相加" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day32旋转图像.Solution" />
       <module name="leetcode" />
@@ -66,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day28搜索旋转排序数组.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day33字母异味词排列.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day28搜索旋转排序数组.*" />
+          <option name="PATTERN" value="Day33字母异味词排列.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +170,7 @@
       <workItem from="1648861085353" duration="4930000" />
       <workItem from="1648996309465" duration="3449000" />
       <workItem from="1649081936740" duration="4219000" />
-      <workItem from="1649164577622" duration="5002000" />
+      <workItem from="1649164577622" duration="10556000" />
     </task>
     <servers />
   </component>
