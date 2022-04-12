@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6e6d71-61bd-4e88-8ee4-bc9a9687f1bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day37合并区间/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day38不同路径/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day38不同路径/pic.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Day37合并区间/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day37合并区间/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Day32旋转图像" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Day38不同路径" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -45,26 +47,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Day38不同路径" />
       <recent name="$PROJECT_DIR$/src/main/java/Day32旋转图像" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Day15两数相加" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day32旋转图像.Solution" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day32旋转图像.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (6)">
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day34最大子数组和.Solution" />
       <module name="leetcode" />
@@ -117,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day33字母异位词排列.Solution" />
+    <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day38不同路径.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day33字母异位词排列.*" />
+          <option name="PATTERN" value="Day38不同路径.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,26 +120,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (6)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +175,8 @@
       <workItem from="1649291115290" duration="4420000" />
       <workItem from="1649388706592" duration="3115000" />
       <workItem from="1649517884116" duration="2374000" />
-      <workItem from="1649554500690" duration="4910000" />
+      <workItem from="1649554500690" duration="6178000" />
+      <workItem from="1649723306433" duration="3616000" />
     </task>
     <servers />
   </component>
@@ -297,6 +286,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Day38不同路径/Solution.java</url>
+          <line>26</line>
+          <properties class="Day38不同路径.Solution" method="uniquePaths">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
